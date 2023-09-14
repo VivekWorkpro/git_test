@@ -1,1 +1,1 @@
-Changes mad to the fiel at the terminal using the nano editor
+Changes made to the file at the terminal using the nano editor
